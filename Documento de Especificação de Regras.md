@@ -1,4 +1,4 @@
-# DOCUMENTO DE ESPECIFICAÇÃO DE REGRAS DE NEGÓCIO
+# DOCUMENTO DE ESPECIFICAÇÃO DE REGRAS DE NEGÓCIO  
 
 **Projeto:** Pipeline de Dados Mercado Livre Analytics
 **Tecnologias:** Databricks Lakehouse, Apache Spark, Delta Lake
