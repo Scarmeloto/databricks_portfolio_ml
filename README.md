@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 # Mercado Livre End-to-End ETL Data Pipeline: Lakehouse & Medallion Architecture 🚀 
 
 ## 📌 Sobre o Projeto e Contexto de Negócio
