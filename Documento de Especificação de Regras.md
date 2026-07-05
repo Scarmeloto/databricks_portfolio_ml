@@ -5,6 +5,8 @@
 **Versão:** 1.0
 **Classificação:** Uso Interno / Portfólio Técnico
 
+**Criador**: Rodrigo Escarmeloto Franco
+
 ---
 
 ## SUMÁRIO
